@@ -1,3 +1,9 @@
+body{
+    background-color: #175256;
+    color: white;
+    margin-top: 10vh;
+}
+
 .container{
     text-align: center;
 }
@@ -17,7 +23,7 @@ h1{
     padding: 2px;
     height: 20vh;
     width: 20vh;
-    border: 2px solid black;
+    border: 10px solid white;
 }
 .btn-1{
     background-color: salmon;
