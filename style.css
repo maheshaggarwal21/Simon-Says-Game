@@ -1,0 +1,39 @@
+.container{
+    text-align: center;
+}
+
+h1{
+    margin: auto;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.btn{
+    margin : 10px;
+    padding: 2px;
+    height: 20vh;
+    width: 20vh;
+    border: 2px solid black;
+}
+.btn-1{
+    background-color: salmon;
+    border-radius: 20%;
+}
+
+.btn-2{
+    background-color: rgb(119, 227, 95);
+    border-radius: 20%;
+}
+.btn-3{
+    background-color: rgb(250, 241, 114);
+    border-radius: 20%;
+}
+.btn-4{
+    background-color: rgb(130, 114, 250);
+    border-radius: 20%;
+}
+
